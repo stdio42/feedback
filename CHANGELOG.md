@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Add a community performance troubleshooting guide with repeatable comparisons, upstream instrumentation, and a report template.
 - **Core reader for source rigs (feedpak 1.18.0).** A pack can declare what a
   MIDI part should sound like by binding a rig; core now reads that binding and
   hands it to the client instead of dropping it. Three parts: the
